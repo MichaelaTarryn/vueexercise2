@@ -1,0 +1,16 @@
+*{
+    margin:auto;
+    padding: auto;
+}
+
+#box1{
+    background-color: rgb(235, 218, 218);
+}
+
+#box2{
+    background-color: rgb(231, 183, 10);
+}
+
+#box3{
+    background-color: rgb(34, 231, 169);
+}
